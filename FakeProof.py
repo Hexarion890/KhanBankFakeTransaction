@@ -7,7 +7,7 @@ from datetime import datetime
 IMAGE_PATH = "FakeProof.jpg"
 OUTPUT_BASENAME = "output"
 EXT = ".jpg"
-FONT_PATH = r"C:\Windows\Fonts\arial.ttf"
+FONT_PATH = r"arial.ttf"
 
 FONT_SIZES = {
     "MONGO": 86,
